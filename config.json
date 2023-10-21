@@ -1,0 +1,17 @@
+{
+    "title":"ACShameless",
+    "displayTitle":"ACShameless",
+    "subTitle":"童话是一种生活态度，仅此而已。",
+    "homeUrl":"https://lab.ACShameless.top",
+    "avatarUrl":"https://lab.ACShameless.top/avatar.svg",
+    "faviconUrl":"https://lab.ACShameless.top/favicon.svg",
+    "singlePage":["link","about"],
+    "email":"acshameless@gmail.com",
+    "startSite":"10/21/2023",
+    "onePageListNum":20,
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "nightTheme":"dark_colorblind",
+    "GMEEK_VERSION":"main"
+}
