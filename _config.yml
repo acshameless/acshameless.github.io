@@ -1,26 +1,23 @@
 # Site Information
-title: Tw93
-description: "Hi, I'm Tw93, a Frontend Engineer from China, also dabbling a bit in Swift, Rust, Python, and Sketch. I'm the creator of MiaoYan, Pake, Trendy Weekly, XRender, and WeexUi. Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas."
-url: https://tw93.fun
-repo: tw93/tw93.github.io
+title: acshameless
+description: "Hi, I'm acshameless, an Engineer from China, also dabbling a bit in Swift, Rust, Python, and Sketch. Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas."
+url: https://ac.shameless.top
+repo: acshameless/acshameless.github.io
 lang: zh-CN
-timezone: Africa/El_Aaiun
+timezone: Asia/Beijing
 
 # Social Media and External URLs
-github: tw93
-zhihu: tw93
-twitter: HiTw93
-v2ex: tw93
+github: acshameless
 menu:
   - title: "Categories"
     url: "/categories.html"
   - title: "About"
     url: "/about.html"
-  - title: "Weekly"
-    url: "https://weekly.tw93.fun/"
+  - title: "Daily"
+    url: "https://daily.shameless.top/"
 
 # SEO and Analytics
-google_analytics: G-KS7EDB6BRM
+# google_analytics: G-KS7EDB6BRM
 
 # Build Settings
 paginate: 10
@@ -65,7 +62,7 @@ plugins:
   - jekyll-feed
 
 # Custom Site Settings
-showBuyCoffee: true
-payImage: //gw.alipayobjects.com/zos/k/vb/1.png
-assetUrl: //tw93.fun/images/
-defaultImage: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+showBuyCoffee: false
+# payImage: //gw.alipayobjects.com/zos/k/vb/1.png
+# assetUrl: //ac.shameless.top/images/
+# defaultImage: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
