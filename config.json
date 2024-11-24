@@ -2,24 +2,16 @@
     "title":"Todo Notes",
     "subTitle":"Record personal todo list daily",
     "avatarUrl":"https://aea62e6.webp.li/2024/11/favicon.png",
-    "displayTitle":"AC",
+    "displayTitle":"Shameless",
     "homeUrl":"https://todo.shameless.top",
     "startSite":"11/24/2024",
     "i18n":"CN",
     "UTC":8,
     "iconList":{
-        "ac":"https://tool.lvtao.net/svgIcon?s=ffffff_food_s19",
-        "weekly":"https://tool.lvtao.net/svgIcon?s=ffffff_food_s0",
-        "sap":"https://tool.lvtao.net/svgIcon?s=ffffff_food_s13",
-        "logo":"https://tool.lvtao.net/svgIcon?s=ffffff_food_s21",
-        "read":"https://tool.lvtao.net/svgIcon?s=ffffff_fitness_s17"
+        "ac":"M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z",
     },
     "exlink":{
         "ac":"https://ac.shameless.top",
-        "weekly":"https://weekly.shameless.top",
-        "sap":"https://sap.shameless.top",
-        "algo":"https://algo.shameless.top",
-        "read":"https://read.shameless.top"
     },
     "commentLabelColor":"#006b75",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
